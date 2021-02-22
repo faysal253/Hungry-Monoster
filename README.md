@@ -1,3 +1,3 @@
-<img = src"./img.png">
+<img src"./img.png">
 
 # Hungry-Monoster
